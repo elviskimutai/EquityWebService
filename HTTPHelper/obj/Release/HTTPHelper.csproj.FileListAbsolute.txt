@@ -1,0 +1,36 @@
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csproj.CopyComplete
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csprojAssemblyReference.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csproj.CopyComplete
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\HTTPHelper\obj\Release\HTTPHelper.csprojAssemblyReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\bin\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\bin\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\obj\Release\HTTPHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\obj\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\HTTPHelper\obj\Release\HTTPHelper.pdb

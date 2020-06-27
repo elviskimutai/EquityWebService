@@ -1,0 +1,4248 @@
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_OperationCode: 5
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_OperationCode: 5
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_OperationCode: 5
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_OperationCode: 5
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_OperationCode: 5
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_Amount: 
+put_Amount: 100
+get_Cashback
+get_Amount: 100
+get_Amount: 100
+get_Cashback
+put_Cashback200
+get_CurrencyCode: 
+get_Cashback200
+get_Cashback200
+get_CurrencyCode: 
+put_CurrencyCode: 404
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+put_OperationCode: 0
+get_OperationCode: 0
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+get_OperationCode: 0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_Amount: 
+put_Amount: 100
+get_Cashback
+get_Amount: 100
+get_Amount: 100
+get_Cashback
+put_Cashback200
+get_CurrencyCode: 
+get_Cashback200
+get_Cashback200
+get_CurrencyCode: 
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_OperationCode: 1
+get_OperationCode: 1
+get_CurrencyCode: 404
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback200
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_ReferenceNumber: 2
+get_Amount: 
+get_ReferenceNumber: 2
+put_Amount: 100
+
+===CSAPacketObj created==
+get_Cashback
+get_Amount: 100
+get_Amount: 100
+get_Cashback
+
+===CSAPacketObj created==
+put_Cashback0
+get_CurrencyCode: 
+get_Cashback0
+get_Cashback0
+get_CurrencyCode: 
+put_CurrencyCode: 404
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_ReferenceNumber: 
+get_ReferenceNumber: 
+get_Amount: 
+get_ReferenceNumber: 2
+get_Amount: 
+get_ReferenceNumber: 2
+put_Amount: 324100
+get_Cashback
+get_Amount: 324100
+get_Amount: 324100
+get_Cashback
+put_Cashback0
+get_CurrencyCode: 
+get_Cashback0
+get_Cashback0
+get_CurrencyCode: 
+put_CurrencyCode: 404
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+put_OperationCode: 5
+get_OperationCode: 5
+get_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 324100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 324100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback200
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback200
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback200
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback200
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1608
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4203450000625255
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 4
+get_CardExpiryDate: 0000
+get_CurrencyCode: 404
+get_TextResponse:Error in card reading
+get_PAN: 
+get_ReferenceNumber: 
+get_CommandResult: 0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+get_CommandResult: 0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 4
+get_CardExpiryDate: 0000
+get_CurrencyCode: 404
+get_TextResponse:Error in card reading
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_Amount: 
+put_Amount: 100
+get_Cashback
+get_Amount: 100
+get_Amount: 100
+get_Cashback
+put_Cashback0
+put_CurrencyCode: 404
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+put_OperationCode: 1
+get_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Amount: 100
+get_Cashback0
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+get_ReferenceNumber: 3
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+get_TextResponse:Succesfully
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 6
+get_CardExpiryDate: 1404
+get_CurrencyCode: 404
+get_TextResponse:The limit of operations is exceeded
+get_PAN: 4478150017004258
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 100
+get_Cashback0
+get_AuthorizationCode: 4
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1604
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4478150104304777
+get_ReferenceNumber: 3
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback2100
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback2100
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:No response code
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback200
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback200
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1200
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1200
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1200
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1200
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1200
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1200
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1200
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1200
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 123453400
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 123453400
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 123453400
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 123453400
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 123453400
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 123453400
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 123453400
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 123453400
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 123453400
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 123453400
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1287023
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1287023
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 1200
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 1200
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 12000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 12000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Pin-pad not answering
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1409
+get_CurrencyCode: 404
+get_TextResponse:Succesfully
+get_PAN: 4407830024589724
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1409
+get_CurrencyCode: 404
+get_PAN: 4407830024589724
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 120000
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+get_Amount: 120000
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 6
+******Exchange******
+get_OperationCode: 5
+get_Amount: 120000
+get_Cashback0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 
+get_CurrencyCode: 404
+get_TextResponse:Answer code is not received
+get_PAN: 
+get_ReferenceNumber: 
+get_Amount: 120000
+get_Cashback0
+get_Amount: 120000
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1409
+get_CurrencyCode: 404
+get_PAN: 4407830024589724
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+get_Amount: 102
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_ResponseCodeHost: 9
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1409
+get_CurrencyCode: 404
+get_PAN: 4407830024589724
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 0
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_Amount: 102
+get_CurrencyCode: 404
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_ReferenceNumber: 4
+get_Cashback0
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_TextResponse:Answer code is not received
+get_TRACK2: 5
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Answer code is not received
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Answer code is not received
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Answer code is not received
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 0
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Answer code is not received
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_AuthorizationCode: 0
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_AuthorizationCode: 0
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+get_Amount: 000000000102
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 
+get_TextResponse:
+get_TRACK2: 
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Cashback0
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 102
+get_AuthorizationCode: 
+get_CardExpiryDate: 
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 0
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Cashback0
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 0
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 1
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000100
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_Amount: 000000000100
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Amount: 000000000100
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 1
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 110
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000110
+get_Cashback0
+get_AuthorizationCode: 1
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 110
+get_Cashback0
+get_Amount: 110
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 110
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000110
+get_Cashback
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 110
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000110
+get_Cashback0
+get_AuthorizationCode: 1
+get_TextResponse:Answer code is not received
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 110
+get_Cashback0
+get_Amount: 110
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 1
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_Cashback0
+get_AuthorizationCode: 1
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_Amount: 000000000102
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010156728711
+get_Amount: 102
+get_Cashback0
+get_Amount: 102
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_Amount: 000000000102
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 102
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 5
+******Exchange******
+get_OperationCode: 5
+get_Amount: 000000000102
+get_AuthorizationCode: 1
+get_CardExpiryDate: 1610
+get_Cashback0
+get_CommandResult: 0
+get_CurrencyCode: 404
+get_OperationCode: 5
+get_PAN: 5196010156728711
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_TRACK2: 5
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_Amount: 
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+get_Amount: 
+get_Amount: 
+put_Amount: 100
+get_Cashback
+get_Amount: 100
+get_Amount: 100
+get_Cashback
+put_Cashback0
+get_CurrencyCode: 
+get_Cashback0
+get_Cashback0
+get_CurrencyCode: 
+put_CurrencyCode: 404
+get_OperationCode: 0
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 
+get_TextResponse:Answer code is not received
+get_ResponseCodeHost: 9
+get_TextResponse:Answer code is not received
+get_ResponseCodeHost: 9
+get_TextResponse:Answer code is not received
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_ResponseCodeHost: 9
+get_ReferenceNumber: 
+get_TextResponse:Answer code is not received
+get_AuthorizationCode: 
+get_AuthorizationCode: 
+get_CardExpiryDate: 1610
+get_CurrencyCode: 404
+get_PAN: 5196010162367595
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+
+===CSAPacketObj created==
+
+===CSAPacketObj created==
+put_Amount: 100
+put_Cashback0
+put_CurrencyCode: 404
+put_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+get_Amount: 100
+get_Cashback0
+get_CurrencyCode: 404
+get_OperationCode: 1
+******Exchange******
+get_OperationCode: 1
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_AuthorizationCode: 
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_AuthorizationCode: 
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_ResponseCodeHost: 0
+get_Cashback0
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_Cashback0
+get_AuthorizationCode: 
+get_Cashback0
+get_AuthorizationCode: 
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1611
+get_CardExpiryDate: 1611
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_CardExpiryDate: 1611
+get_CardExpiryDate: 1611
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_Amount: 000000000100
+get_Amount: 000000000100
+get_Cashback0
+get_Cashback0
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_AuthorizationCode: 
+get_AuthorizationCode: 
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_ReferenceNumber: 4
+get_ReferenceNumber: 4
+get_TextResponse:Succesfully
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_TextResponse:Succesfully
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_AuthorizationCode: 
+get_ResponseCodeHost: 0
+get_ResponseCodeHost: 0
+get_CardExpiryDate: 1611
+get_CardExpiryDate: 1611
+get_CardExpiryDate: 1611
+get_CurrencyCode: 404
+get_CardExpiryDate: 1611
+get_CardExpiryDate: 1611
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+get_CurrencyCode: 404
+get_PAN: 5196010172762512
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0
+get_Amount: 100
+get_Cashback0

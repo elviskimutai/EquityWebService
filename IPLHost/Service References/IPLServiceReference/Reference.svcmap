@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2942cc0c-70db-4ffb-8acd-049fc99c9d52" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:41000/ipl/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="6b28f43f-8937-43bb-b03d-b3958e000e13" SourceId="1" SourceUrl="http://localhost:41000/ipl/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="2a034333-d0dd-4990-9dde-bdba174d6a83" SourceId="1" SourceUrl="http://localhost:41000/ipl/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="7b9e1c88-835f-4381-8404-4ddd3290e3ca" SourceId="1" SourceUrl="http://localhost:41000/ipl/mex" />
+    <MetadataFile FileName="IPLRest.xsd" MetadataType="Schema" ID="bb398d14-f75d-4cd4-a56a-c24feb3076b1" SourceId="1" SourceUrl="http://localhost:41000/ipl/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

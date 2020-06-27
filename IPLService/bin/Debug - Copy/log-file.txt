@@ -1,0 +1,7 @@
+[Header]
+2016-03-06 09:28:27,499 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters
+2016-03-06 09:28:31,490 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters
+2016-03-06 09:28:33,801 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters
+2016-03-06 09:28:57,965 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters
+2016-03-06 09:29:16,789 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters
+2016-03-06 09:29:40,601 [15] DEBUG IPLService.IPLService [(null)] <(null)> - Validating Sale Request's parameters

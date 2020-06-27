@@ -1,0 +1,181 @@
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+D:\Codes\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+D:\Codes\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.csprojResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLHost\bin\Debug\app.config
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\app.config
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+I:\Mbadi\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+I:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\app.config
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+F:\Mbadi\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.csprojResolveAssemblyReference.cache
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+F:\Mbadi\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\app.config
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+F:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.csprojResolveAssemblyReference.cache
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+F:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+E:\Codes\DotNet\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+E:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+E:\Codes\DotNet\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\app.config
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.csprojResolveAssemblyReference.cache
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\app.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLHost\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.exe.config
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.exe
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\app.config
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.exe
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLRest.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\log4net.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\ArcComHelper.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLRest.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\ArcComHelper.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.csprojResolveAssemblyReference.cache
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.csproj.GenerateResource.Cache
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.exe.config
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\app.config
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.exe
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLHost.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.frmIPLHost.resources
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\IPLHost.Properties.Resources.resources
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\ResGen.read.1.tlog
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLHost\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,98 @@
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe.config
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.xml
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csprojAssemblyReference.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.ProjectInstaller.resources
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.GenerateResource.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CopyComplete
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.exe
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csprojAssemblyReference.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.ProjectInstaller.resources
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.GenerateResource.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.exe
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe.config
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CopyComplete
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\DevExpress.Data.v17.1.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\DevExpress.Xpo.v17.1.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\DevExpress.Data.v17.1.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\DevExpress.Xpo.v17.1.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\de\DevExpress.Data.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\es\DevExpress.Data.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ja\DevExpress.Data.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ru\DevExpress.Data.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ru\DevExpress.Xpo.v17.1.resources.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe.config
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.exe
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\EFTConnectSvc.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\bin\Release\Newtonsoft.Json.xml
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csprojAssemblyReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.ProjectInstaller.resources
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.GenerateResource.cache
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.exe
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\IPLService\obj\x86\Release\EFTConnectSvc.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\EFTConnectSvc.exe.config
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\EFTConnectSvc.exe
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\EFTConnectSvc.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\HTTPHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\Newtonsoft.Json.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\HTTPHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\Newtonsoft.Json.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\bin\Release\Newtonsoft.Json.xml
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.csprojAssemblyReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.ProjectInstaller.resources
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.csproj.GenerateResource.cache
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.exe
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\IPLService\obj\x86\Release\EFTConnectSvc.pdb

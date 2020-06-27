@@ -1,0 +1,6 @@
+[2013-08-17 21:27:13,686] - [ERROR] – HTTP could not register URL http://+:6700/ipl/Ep1/. Another application has already registered this URL with HTTP.SYS.
+[2013-08-17 21:27:20,848] - [ERROR] – The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.
+[2013-08-17 21:47:03,788] - [ERROR] – HTTP could not register URL http://+:6700/ipl/Ep1/. Another application has already registered this URL with HTTP.SYS.
+[2013-08-17 21:47:03,803] - [ERROR] – The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.
+[2013-08-17 21:59:18,563] - [ERROR] – HTTP could not register URL http://+:6700/ipl/Ep1/. Another application has already registered this URL with HTTP.SYS.
+[2013-08-17 21:59:18,577] - [ERROR] – The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.

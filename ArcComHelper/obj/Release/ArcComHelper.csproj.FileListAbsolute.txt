@@ -1,0 +1,51 @@
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.ResolveComReference.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.CopyComplete
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csprojAssemblyReference.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.ResolveComReference.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.CopyComplete
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.ResolveComReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Release\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Release\ArcComHelper.csproj.ResolveComReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Release\ArcComHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Release\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Release\ArcComHelper.pdb

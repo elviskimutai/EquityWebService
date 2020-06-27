@@ -1,0 +1,202 @@
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+D:\Codes\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+D:\Codes\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+D:\Codes\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+D:\Codes\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+D:\Codes\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+D:\Codes\iplwebsvc\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+D:\Codes\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+D:\Codes\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+D:\Codes\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+I:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+I:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+I:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+I:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+I:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+I:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+I:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+I:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+I:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+I:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+F:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+F:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+F:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+F:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+F:\Mbadi\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+F:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+F:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+F:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+F:\Mbadi\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+F:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+E:\Codes\DotNet\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\log4net.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.csprojResolveAssemblyReference.cache
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\log4net.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\log4net.xml
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\iplwebsvc\ArcComHelper\obj\Debug\ArcComHelper.csprojResolveAssemblyReference.cache
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.pdb
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.xml
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CoreCompileInputs.cache
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CopyComplete
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.pdb
+C:\Users\mbadi\Documents\Visual Studio 2019\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csprojAssemblyReference.cache
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.pdb
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.dll
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.pdb
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\log4net.xml
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.dll
+C:\Users\mbadi\Documents\Visual Studio 2010\Projects\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.pdb
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.xml
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CopyComplete
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.dll
+D:\Projects\WilcomSystems\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CoreCompileInputs.cache
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.pdb
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.xml
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+D:\Projects\WilcomSystems\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\eftconnect\ArcComHelper\obj\Debug\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\ArcComHelper.dll.config
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\ArcComHelper.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\log4net.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\log4net.pdb
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\log4net.xml
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\bin\Debug\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Debug\Interop.ARCCOMLib.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Debug\ArcComHelper.csproj.ResolveComReference.cache
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Debug\ArcComHelper.csproj.CopyComplete
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Debug\ArcComHelper.dll
+F:\WEB EFT API CALL\EFTconnectLatest\Textbookcentre\ArcComHelper\obj\Debug\ArcComHelper.pdb
